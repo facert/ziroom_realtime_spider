@@ -7,3 +7,8 @@
     
 ## 使用
     python ziroom.py 关键词（eg. 望京）
+
+
+## 截图
+
+![](https://raw.githubusercontent.com/facert/ziroom_realtime_spider/master/screenshot.png)
