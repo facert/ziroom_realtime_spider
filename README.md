@@ -4,7 +4,13 @@
 ## 依赖
     python + redis
     
-    
+## 安装
+```
+yum install redis
+pip install redis requests
+systemctl start redis
+```
+
 ## 使用
     python ziroom.py 关键词（eg. 望京）
 
